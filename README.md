@@ -1,5 +1,7 @@
 # Desafio - Academia Capgemini 2022
-Desafio de programação da Academia Capgemini
+Desafio de programação da Academia Capgemini.
+
+<img src="demo.gif" alt="" width=600 height=430>
 
 **O projeto é constituído por 3 desafios:**
 
