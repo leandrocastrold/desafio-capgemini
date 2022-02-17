@@ -20,7 +20,7 @@ Todas as classes e métodos estão documentados com o Javadoc. Acesse javadoc/in
 ## Testes unitários
 Configurados com Junit, testam as funcionalidades dos métodos das classes de desafio (Challenge1, 2 e 3).
 
-##Download
+## Download
 Baixar projeto: `git clone https://github.com/leandrocastrold/desafio-capgemini.git' `
 
 ## Execução

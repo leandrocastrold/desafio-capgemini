@@ -1,1 +1,0 @@
-packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"br.com.capgemini.application"},{"l":"br.com.capgemini.challenge1"},{"l":"br.com.capgemini.challenge2"},{"l":"br.com.capgemini.challenge3"}];updateSearchResults();
