@@ -1,0 +1,53 @@
+@options
+@packages
+@argfile
+-encoding
+'Cp1252'
+-protected
+-source
+'11'
+-sourcepath
+'C:/Users/Leandro Castro/Desktop/capgemini-desafio/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2022. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/Leandro Castro/Desktop/capgemini-desafio/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'capgemini-desafio 1.0-SNAPSHOT API'
+-linkoffline
+'https://docs.oracle.com/en/java/javase/11/docs/api' 'C:/Users/Leandro Castro/Desktop/capgemini-desafio/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'capgemini-desafio 1.0-SNAPSHOT API'
+br.com.capgemini.application
+br.com.capgemini.challenge1
+br.com.capgemini.challenge2
+br.com.capgemini.challenge3
+'C:/Users/Leandro Castro/Desktop/capgemini-desafio/src/main/java/br/com/capgemini/application/ChallengeApplication.java'
+'C:/Users/Leandro Castro/Desktop/capgemini-desafio/src/main/java/br/com/capgemini/challenge1/Challenge1.java'
+'C:/Users/Leandro Castro/Desktop/capgemini-desafio/src/main/java/br/com/capgemini/challenge2/Challenge2.java'
+'C:/Users/Leandro Castro/Desktop/capgemini-desafio/src/main/java/br/com/capgemini/challenge3/Challenge3.java'
+C:\Users\Leandro Castro\Desktop\capgemini-desafio\src\main\java = 1645055706917
+C:\Users\Leandro Castro\Desktop\capgemini-desafio\target\site\apidocs\allclasses-index.html = 1645056857282
+C:\Users\Leandro Castro\Desktop\capgemini-desafio\target\site\apidocs\allpackages-index.html = 1645056857288
+C:\Users\Leandro Castro\Desktop\capgemini-desafio\target\site\apidocs\element-list = 1645056857176
+C:\Users\Leandro Castro\Desktop\capgemini-desafio\target\site\apidocs\help-doc.html = 1645056857323
+C:\Users\Leandro Castro\Desktop\capgemini-desafio\target\site\apidocs\index-all.html = 1645056857313
+C:\Users\Leandro Castro\Desktop\capgemini-desafio\target\site\apidocs\index.html = 1645056857258
+C:\Users\Leandro Castro\Desktop\capgemini-desafio\target\site\apidocs\jquery-ui.overrides.css = 1645056857367
+C:\Users\Leandro Castro\Desktop\capgemini-desafio\target\site\apidocs\member-search-index.js = 1645056857296
+C:\Users\Leandro Castro\Desktop\capgemini-desafio\target\site\apidocs\module-search-index.js = 1645056857290
+C:\Users\Leandro Castro\Desktop\capgemini-desafio\target\site\apidocs\overview-summary.html = 1645056857318
+C:\Users\Leandro Castro\Desktop\capgemini-desafio\target\site\apidocs\overview-tree.html = 1645056857254
+C:\Users\Leandro Castro\Desktop\capgemini-desafio\target\site\apidocs\package-search-index.js = 1645056857293
+C:\Users\Leandro Castro\Desktop\capgemini-desafio\target\site\apidocs\script.js = 1645056857328
+C:\Users\Leandro Castro\Desktop\capgemini-desafio\target\site\apidocs\search.js = 1645056857331
+C:\Users\Leandro Castro\Desktop\capgemini-desafio\target\site\apidocs\stylesheet.css = 1645056857326
+C:\Users\Leandro Castro\Desktop\capgemini-desafio\target\site\apidocs\tag-search-index.js = 1645056857297
+C:\Users\Leandro Castro\Desktop\capgemini-desafio\target\site\apidocs\type-search-index.js = 1645056857295
