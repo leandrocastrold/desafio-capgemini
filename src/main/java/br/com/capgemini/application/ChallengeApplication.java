@@ -31,6 +31,10 @@ public class ChallengeApplication {
     private static int showMenu() {
         Scanner scanner = new Scanner(System.in);
         int option = -1;
+        System.out.println("" +
+                "\n=====================================\n" +
+                "= ACADEMIA CAPGEMINI - DESAFIO 2022 =\n" +
+                "=====================================");
         System.out.println("\n" +
                 "1: [DESAFIO 1]\n" +
                 "2: [DESAFIO 2]\n" +
